@@ -1,0 +1,9 @@
+Identidade:
+uid=65534(nobody) gid=65534(nogroup) groups=65534(nogroup)
+Leitura:
+Documento sintetico para AV3
+Tentativa de escrita:
+Codigo de saida do touch: 1
+Mensagem de erro:
+touch: cannot touch '/dados/novo.txt': Read-only file system
+SUCESSO: escrita negada pelo mount read-only

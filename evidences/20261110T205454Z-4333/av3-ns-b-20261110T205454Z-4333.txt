@@ -1,0 +1,6 @@
+Container: av3-ns-b-20261110T205454Z-4333
+Host PID (daemon): 2912
+PID 1 command: sleep
+PID namespace: pid:[4026532490]
+Mount namespace: mnt:[4026532487]
+Network namespace: net:[4026532492]

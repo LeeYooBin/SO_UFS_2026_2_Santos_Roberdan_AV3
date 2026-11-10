@@ -1,0 +1,6 @@
+=== AMBIENTE DO DAEMON ===
+OS=Docker Desktop
+Kernel=6.6.87.2-microsoft-standard-WSL2
+CPUs=16
+Memory=16402022400
+Cgroup=2

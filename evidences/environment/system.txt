@@ -1,0 +1,63 @@
+=== DATA UTC ===
+2026-11-10T20:48:51+00:00
+=== SISTEMA DO TERMINAL ===
+Linux ssk 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+PRETTY_NAME="Ubuntu 24.04.3 LTS"
+NAME="Ubuntu"
+VERSION_ID="24.04"
+VERSION="24.04.3 LTS (Noble Numbat)"
+VERSION_CODENAME=noble
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=noble
+LOGO=ubuntu-logo
+=== CPU ===
+16
+=== MEMORIA ===
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       1.0Gi        14Gi       4.8Mi       418Mi        14Gi
+Swap:          4.0Gi          0B       4.0Gi
+=== DOCKER ===
+Client:
+ Version:           29.1.3
+ API version:       1.52
+ Go version:        go1.25.5
+ Git commit:        f52814d
+ Built:             Fri Dec 12 14:48:47 2025
+ OS/Arch:           linux/amd64
+ Context:           default
+
+Server: Docker Desktop 4.55.0 (213807)
+ Engine:
+  Version:          29.1.3
+  API version:      1.52 (minimum version 1.44)
+  Go version:       go1.25.5
+  Git commit:       fbf3ed2
+  Built:            Fri Dec 12 14:49:51 2025
+  OS/Arch:          linux/amd64
+  Experimental:     false
+ containerd:
+  Version:          v2.2.0
+  GitCommit:        1c4457e00facac03ce1d75f7b6777a7a851e5c41
+ runc:
+  Version:          1.3.4
+  GitCommit:        v1.3.4-0-gd6d73eb8
+ docker-init:
+  Version:          0.19.0
+  GitCommit:        de40ad0
+Docker Compose version v2.40.3-desktop.1
+=== DAEMON ===
+OS=Docker Desktop
+Kernel=6.6.87.2-microsoft-standard-WSL2
+CPUs=16
+Memory=16402022400
+Cgroup=2
+Driver=cgroupfs
+=== IMAGEM ===
+python@sha256:5e2bdb1b0d542d5039cffb8181c65930093949194a65c365dfb1b0fe13a4fa5b
+=== CONTROLADORES ===
+cpuset cpu io memory hugetlb pids rdma

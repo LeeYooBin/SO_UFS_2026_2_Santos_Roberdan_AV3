@@ -1,0 +1,11 @@
+{
+  "iterations": 20000000,
+  "checksum": 464056848,
+  "status": "success",
+  "wall_time_seconds": 2.533746,
+  "cpu_time_seconds": 2.527818,
+  "work_per_second": 7893451.77,
+  "max_rss_kib": 16000,
+  "minor_page_faults": 2745,
+  "major_page_faults": 0
+}
